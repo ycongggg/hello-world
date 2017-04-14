@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi, my name is Cong Yang. I come from China. I like playing basketball.
